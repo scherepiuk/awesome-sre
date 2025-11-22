@@ -137,7 +137,7 @@ Contributions are always welcome!
 
 ## Education
 - [ ] [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
-- [ ] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
+- [x] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
 - [ ] [New to an SRE team?](https://www.linkedin.com/pulse/new-sre-team-anthony-caiafa/)
 - [ ] [The Systems Engineering Side of Site Reliability Engineering](https://www.usenix.org/publications/login/june15/hixson)
 - [ ] [Graduating from Bootcamp and interested in becoming a Site Reliability Engineer?](https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b)
